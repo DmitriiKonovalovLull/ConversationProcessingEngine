@@ -1,0 +1,13 @@
+spring:
+  flyway:
+    clean-disabled: true
+
+logging:
+  level:
+    root: WARN
+
+security:
+  tokens:
+    read: ${READ_TOKEN}
+    write: ${WRITE_TOKEN}
+    admin: ${ADMIN_TOKEN}

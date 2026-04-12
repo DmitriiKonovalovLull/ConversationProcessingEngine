@@ -1,0 +1,9 @@
+spring:
+  flyway:
+    clean-disabled: false
+
+logging:
+  level:
+    root: INFO
+    com.aisales: INFO
+    org.springframework.web: WARN
