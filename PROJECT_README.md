@@ -1,7 +1,7 @@
 # Conversation Processing Engine - Project Documentation
 
 ## Overview
-Production-ready conversation processing engine built with Spring Boot 3.2.0 and Java 21. Features async pipeline processing, AI integration, rate limiting, metrics collection, and channel abstraction.
+Prototype conversation processing engine built with Spring Boot 3.2.0 and Java 21. Features async pipeline processing, AI integration, rate limiting, metrics collection, and channel abstraction.
 
 ## Tech Stack
 - **Java**: 21
